@@ -18,9 +18,11 @@ Listing about this project do what improvement that better than other SQL autoco
 	- [x] Using `MariaDBClient` execute hardcoded queries
 	- [x] refactor `kernel.py: num_connected_clients()` to this class
 	- [x] unit testing
+    
     [patch](https://github.com/a97410985/mariadb_kernel/commit/71bd8539a762924ea11fa2df9bf547ac1add7025) was completed above
 - [x] SQLAnalyze
 	future would modified mycli complete_engine's suggest_type method, currently just mycli sqlcompleter wrapper.
+    
     [patch](https://github.com/a97410985/mariadb_kernel/commit/f8eab884b2e5dca558dac291bea358c3c69febaf) was completed above
 - [x] Autocompleter
 	- [x] Implementing `get_suggestions(code, cursor_pos) -> [list of suggestions]`
@@ -28,6 +30,7 @@ Listing about this project do what improvement that better than other SQL autoco
 	- [x] integrated `SQLFetch`
 	- [x] integrated `SQLAnalyze`
 	- [x] integrated with mariadb_kernel, and can provide autocomplete functionality
+    
     [patch](https://github.com/a97410985/mariadb_kernel/commit/1ccccd855621c5034a4ac37f682032ba1f5f4ef2) was completed above
 - [ ] ...
 

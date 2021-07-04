@@ -1,4 +1,4 @@
-## some good autocomplete examples about litecli
+## some good autocomplete examples about mycli
 ### keep view's name so it can be suggested
 ```SQL
 CREATE TABLE t (qty INT, price INT);
